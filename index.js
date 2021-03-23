@@ -13,7 +13,7 @@ rpc.on('ready', () => {
         smallImageText: "Small image text"
     });
 
-    console.log("Wystartowano status gry na discord!");
+    console.log("Succesfully started your presence! Made by zeeq#7651");
 });
 
 rpc.login({
