@@ -1,3 +1,3 @@
 # **DiscordRichPresence**
 
-**Discord rich presence maked by me in javascript enjoy!**
+**🏦・Discord rich presence maked by me in javascript enjoy!**
